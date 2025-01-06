@@ -1,2 +1,2 @@
-# Azure_Data_engineering_projct
-using 2021 Olympics in Tokyo data 
+# Data Science Projects
+in this repo I'll show and upload my Data Science/ Data Analyst/ Data Engineering Projects 
